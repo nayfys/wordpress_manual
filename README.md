@@ -23,3 +23,11 @@
 16. Rozbalení zipu "unzip wordpress.zip"
 17. Změna uživatele adresáře wordpress "chown www-data.www-data -R wordpress"
 18. Přihlásit se přes chrome http://[server]:/wordpress
+
+na windows
+
+1. rozbalit slozku
+2. spustime si xamp a tam zalozime databazi wordpress
+3. otevru ji na googlu localhost/wordpress
+4. zadam údaje, uživatelské jméno musí být to co nám umožní pracovat s databází
+5. pak jsme ve wordpressu
